@@ -5,4 +5,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-Gi&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/neon-Gi/github-readme-stats)
 
 ### studying...
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,swift,php,mysql,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,swift,php,mysql,cs,dotnet,Flutter)](https://skillicons.dev)
